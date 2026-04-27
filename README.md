@@ -40,5 +40,5 @@ My current work focuses on developing and evaluating sensor fusion-based localiz
 
 ## 📫 Contact
 - Email: godswille45@gmail.com
-- LinkedIn: linkedin.com/in/israel-emmanuel-387567163
+- LinkedIn: https://linkedin.com/in/israel-emmanuel-387567163
 - GitHub: https://github.com/godswill12
